@@ -8,4 +8,5 @@
 
 # Games
 
-1.) Space Hunters
+1.) Space Hunters   
+2.) Tic Tac Toe 
